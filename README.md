@@ -3,7 +3,7 @@ In these the user will need to insert one movie that they like and in return the
 
 
 <p align="center">
-  <img src="![Screenshot (62)](https://user-images.githubusercontent.com/66415331/108841507-e12e0f80-75fd-11eb-8f47-9b7f47e17809.png)
+  <img src="https://user-images.githubusercontent.com/66415331/108841507-e12e0f80-75fd-11eb-8f47-9b7f47e17809.png
 " width="350" title="hover text">
   <img src="![Screenshot (62)](https://user-images.githubusercontent.com/66415331/108841507-e12e0f80-75fd-11eb-8f47-9b7f47e17809.png)
 " width="350" alt="accessibility text">
