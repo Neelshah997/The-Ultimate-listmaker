@@ -5,6 +5,7 @@ It uses the concept of similarity score. which works on Cosine similarity concep
 <br></br>
 ---
 <p align="center">
+  <br></br>
   <img src = "Example.png"/>
 
 </p>
