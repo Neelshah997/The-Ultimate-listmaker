@@ -2,7 +2,7 @@
 In these the user will need to insert one movie that they like and in return they will get a list of 10 movies which the user will like to watch.
 
 <p align="center">
-  <img src = "C:\Users\neel\Pictures\Screenshots\Screenshot (62).png"/>
+  <img src = ".png"/>
 
 </p>
 ![Screenshot (62)](https://user-images.githubusercontent.com/66415331/108841507-e12e0f80-75fd-11eb-8f47-9b7f47e17809.png)
